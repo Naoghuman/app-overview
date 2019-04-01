@@ -26,6 +26,7 @@ TODO
 
 #### Documentation
 #3 [doc] Create basic ReadMe structure.
+#2 [doc] Create new concept 'Project-Idea'.
 
 
 

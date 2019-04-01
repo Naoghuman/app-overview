@@ -1,0 +1,48 @@
+--------------------------------------------------------------------------------
+CONCEPT <Project-Idea>
+--------------------------------------------------------------------------------
+INTENTION
+In this concept I want to write down the concept for the basic 'Project Idea'.
+
+- The main goal from the application is to generate an overview about all my 
+  GitHub projects.
+- The information about my GitHub project will received over the 'GitHub Developer v3' 
+  Rest-Service.
+- With a JavaFX desktop application the information about my GitHub projects 
+  will be update.
+- The application can also generate a static web-page which should automatically 
+  during a build deployed over Travis CI to my GitHub webpage: https://naoghuman.github.io
+
+So we have following main areas:
+ a) Receive the informations from GitHub and prepare them.
+ b) A JavaFX desktop application to presentated the information.
+ c) Create with the GitHub information a static webpage.
+ d) Automatically builds (2 times in the week) will
+     - catch the newest information from my GitHub per unittest
+     - create the static webpage
+     - deploy the webpage to my GitHub webpage.
+
+--------------------------------------------------------------------------------
+SPECIFICATION
+ - ...
+
+--------------------------------------------------------------------------------
+LINKS
+ - ...
+
+--------------------------------------------------------------------------------
+EXTRAS
+- GitHub projects can be tagged. The tags can be used to filter the projects.
+- There are different opensource projects to handle with the 'GitHub Developer v3'
+  API. The allowed access the API and returned Java objects.
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
