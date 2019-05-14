@@ -10,7 +10,12 @@ TODO
 
 
 
+#### Bug
+
+
+
 #### Feature
+#5 [app] Implement basic navigation tree.
 #4 [app] Connect the project to Travis-CI.
 #1 [app] Create basic project structure.
 
@@ -20,7 +25,7 @@ TODO
 
 
 
-#### Bug
+#### Test
 
 
 
