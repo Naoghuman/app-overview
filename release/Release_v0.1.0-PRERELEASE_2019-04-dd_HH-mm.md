@@ -15,6 +15,7 @@ TODO
 
 
 #### Feature
+#8 [gui] Implement basic project- + details-view structure.
 #5 [app] Implement basic navigation tree.
 #4 [app] Connect the project to Travis-CI.
 #1 [app] Create basic project structure.
